@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_54b9f9">#54b9f9</color>
+    <color name="color_448aca">#448aca</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="black">#ff000000</color>
+    <color name="color_aaaaaa">#aaaaaa</color>
+    <color name="color_353535">#353535</color>
+
+    <color name="bg_toast">#66000000</color>
+    <color name="white">#ffffffff</color>
+    
+    <color name="back_normal">#3CB371</color>
+    <color name="back_pressed">#228B22</color>
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">图片检索</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="retrieval_by_word">文字检索</string>
+    <string name="retrieval_by_image">图片检索</string>
+    <string name="back">返回</string>
+    <string name="ok">确定</string>
+    <string name="total_pictures">所有图片</string>
+    <string name="no_picture">0张</string>
+    <string name="all_images">全部图片</string>
+    <string name="select_image">选择图片</string>
+    <string name="crop_pick_error">无效的图片</string>
+    <string name="crop_saving">正在保存头像\u2026</string>
+    <string name="crop_wait">请等待\u2026</string>
+    <string name="crop_done">完成</string>
+    <string name="crop_cancel">取消</string>
+    <string name="picture_below_limit">图片太小</string>
+    <string name="picture_beyond_limit">图片太大</string>
+    <string name="choose_a_picture">选择一张图片</string>
+    <string name="compare_result">检索结果</string>
+    <string name="request_info">检索信息</string>
+    <string name="public_num">公开号</string>
+    <string name="apply_person">申请人</string>
+    <string name="patent_number">专利号</string>
+    <string name="hint">input info</string>
+    <string name="start_request">开始检索</string>
+    <string name="requesting">检索中</string>
+    <string name="product_name">产品名</string>
+    <string name="no_result">没有符合的产品</string>
+    <string name="topic">图片检索</string>
+    <string name="take_picture">拍照</string>
+    <string name="pick_from_album">相册</string>
+    <string name="warm">请选择一张图片</string>
+    <string name="choose_a_local">选择一张椅子</string>
+    <string name="service_topic">服务器检索</string>
+
+    
+    <!-- 图片信息数组  -->
+    <string-array name="publicNum">
+    　	         <item>CN201530200235.0</item>
+                 <item>CN201530200235.0</item>
+　　			     <item>CN201430076272.0</item>
+　　			     <item>CN201330169402.0</item>
+　　			     <item>CN201330261593.3</item>
+    　	         <item>CN201330584982.x</item>
+　　			     <item>CN201530162984.9</item>
+　　			     <item>CN201430046838.5</item>
+　　			     <item>CN201030505833.6</item>
+    　	         <item>CN201030248696.2</item>
+　　			     <item>CN201230535378.3</item>
+　　			     <item>CN201130312800.4</item>
+　　			     <item>CN201530044598.X</item>
+    　	         <item>CN201430106298.5</item>
+　　			     <item>CN201230651961.0</item>
+　　			     <item>CN200930132995.7</item>
+　　			     <item>CN201330454079.1</item>
+    　	         <item>CN201530053723.3</item>
+　　			     <item>CN201430051927.9</item>
+　　			     <item>CN201130283825.6</item>
+　　			     <item>CN201130283824.1</item>
+    　	         <item>CN201430460475.x</item>
+    </string-array>
+    
+    <string-array name="name">
+    　	         <item>职员椅</item>
+                 <item>职员椅</item>
+　　			     <item>椅子</item>
+　　			     <item>椅子</item>
+　　			     <item>椅子</item>
+    　	         <item>电脑椅</item>
+　　			     <item>办公椅</item>
+　　			     <item>座椅</item>
+　　			     <item>椅子</item>
+    　	         <item>椅子</item>
+　　			     <item>椅子</item>
+　　			     <item>凳子</item>
+　　			     <item>椅子</item>
+    　	         <item>沙发</item>
+　　			     <item>沙发椅</item>
+　　			     <item>搁脚</item>
+　　			     <item>方凳</item>
+    　	         <item>扶手椅</item>
+　　			     <item>沙发</item>
+　　			     <item>沙发</item>
+　　			     <item>沙发</item>
+    　	         <item>椅子</item>
+    </string-array>
+    <string-array name="applyPerson">
+　　			     <item>浙江圣奥家具制造有限公司</item>
+                 <item>浙江圣奥家具制造有限公司</item>
+    　	         <item>陈敏</item>
+　　			     <item>梁贵开</item>
+　　			     <item>斯堪的纳维亚商务座椅公司</item>
+　　			     <item>李兆荣</item>
+    　	         <item>尤兆根</item>
+　　			     <item>鲁定康</item>
+　　			     <item>安吉县盛信办公家具有限公司</item>
+　　			     <item>王彩根</item>
+    　	         <item>陈嘉乐</item>
+　　			     <item>张仁纪</item>
+　　			     <item>廖涛兴</item>
+　　			     <item>深圳市万盛宇家具有限公司</item>
+    　	         <item>杭州梅园工艺寝饰有限公司</item>
+　　			     <item>杭州中艺经贸有限公司</item>
+　　			     <item>莆田市力天红木艺雕有限公司</item>
+　　			     <item>家天地（北京）进出口贸易有限公司</item>
+    　	         <item>张旭升</item>
+　　			     <item>劳炳来</item>
+　　			     <item>劳炳来</item>
+　　			     <item>杜建峰</item>
+    </string-array>
+    <string-array name="patentNum">
+　　			     <item>CN303406885S</item>
+                 <item>CN303406885S</item>
+    　	         <item>CN302898664S</item>
+　　			     <item>CN302547559S</item>
+　　			     <item>CN302684887S</item>
+　　			     <item>CN302822835S</item>
+    　	         <item>CN303382577S</item>
+　　			     <item>CN302892020S</item>
+　　			     <item>CN301455298S</item>
+　　			     <item>CN301435687S</item>
+    　	         <item>CN302426720S</item>
+　　			     <item>CN301865219S</item>
+　　			     <item>CN303293684S</item>
+　　			     <item>CN302951884S</item>
+    　	         <item>CN302438616S</item>
+　　			     <item>CN301126859</item>
+　　			     <item>CN302691709S</item>
+　　			     <item>CN303382350S</item>
+    　	         <item>CN302927835S</item>
+　　			     <item>CN301880400S</item>
+　　			     <item>CN301875136S</item>
+　　			     <item>CN303281032S</item>
+    </string-array>
+    
+    
+
+</resources>

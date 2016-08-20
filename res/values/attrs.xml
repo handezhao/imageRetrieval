@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="icon" format="reference" />
+    <attr name="color" format="color" />
+    <attr name="text" format="string" />
+    <attr name="text_size" format="dimension" />
+    <attr name="text_color" format="color" />
+     <attr name="title" format="string|reference" />
+    <attr name="left_text" format="string|reference" />
+    <attr name="right_text" format="string|reference" />
+	<attr name="left_image" format="reference" />
+	<attr name="right_image" format="reference" />
+
+    <attr name="borderRadius" format="dimension" />
+    <attr name="type">
+        <enum name="circle" value="0" />
+        <enum name="round" value="1" />
+    </attr>
+
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius" />
+        <attr name="type" />
+    </declare-styleable>
+    
+    <declare-styleable name="ChangeColorIconView">
+        <attr name="icon" />
+        <attr name="color" />
+        <attr name="text" />
+        <attr name="text_size" />
+        <attr name="text_color" />
+    </declare-styleable>
+    <declare-styleable name="ztHorizontalListView">
+        <attr name="dividerWidth" format="dimension" />
+        <attr name="android:divider" />
+        <attr name="android:requiresFadingEdge" />
+        <attr name="android:fadingEdgeLength" />
+    </declare-styleable>
+	<declare-styleable name="Emojicon">
+        <attr name="emojiconSize" format="dimension"/>
+        <attr name="emojiconTextStart" format="integer"/>
+        <attr name="emojiconTextLength" format="integer"/>
+    </declare-styleable>
+    
+	<declare-styleable name="TitleBarView">
+	    <attr name="title" />
+	    <attr name="left_image" />
+	    <attr name="menu" format="boolean" />
+	    <attr name="right_img1" format="reference" />
+	    <attr name="right_img2" format="reference" />
+	    <attr name="left_text" />
+	</declare-styleable>
+	
+	<declare-styleable name="SecondTitleBarView">
+	    <attr name="left_image" />
+	    <attr name="left_text" />
+	    <attr name="title" />
+	    <attr name="right_image" />
+	    <attr name="right_text" />
+	</declare-styleable>
+	
+	
+    <attr name="cropImageStyle" format="reference" />
+
+    <declare-styleable name="CropImageView">
+        <attr name="highlightColor" format="reference|color" />
+        <attr name="showThirds" format="boolean" />
+        <attr name="showCircle" format="boolean" />
+        <attr name="showHandles">
+          <enum name="changing" value="0" />
+          <enum name="always" value="1" />
+          <enum name="never" value="2" />
+        </attr>
+    </declare-styleable>
+    
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+
+</resources>
